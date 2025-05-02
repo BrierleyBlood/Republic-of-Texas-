@@ -1,4 +1,4 @@
-[
+
 	{
 		"name": "T-6 Bomber",
 		"unitType": "Bomber",
@@ -13,8 +13,8 @@
 		"requiredResource": "Oil",
 		"attackSound": "Bombing",
 		"Upgrades to": "Stealth Bomber", 
-	}
-]
+	},
+{
 
                 "name": "M4 Sherman" ,
                 "unitType" : "Armored" ,
@@ -28,4 +28,4 @@
                 "AttackSound" : "tankShot" ,
                 "upgradesTo" : , "Modern Armor" ,
                 "RequiredResource" : "Oil" , 
-
+}
