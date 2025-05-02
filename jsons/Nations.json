@@ -2,7 +2,7 @@
 	{
 		"name": "Republic of Texas",
 		"leaderName": "Jefferson Davis",
-		"adjective": ["alien"],
+		"adjective": ["Texan"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
