@@ -1,4 +1,4 @@
-
+[
 	{
 		"name": "T-6 Bomber",
 		"unitType": "Bomber",
@@ -29,3 +29,4 @@
                 "upgradesTo" : , "Modern Armor" ,
                 "RequiredResource" : "Oil" , 
 }
+] 
