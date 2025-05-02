@@ -1,17 +1,18 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "T-6",
+		"unitType": "Bomber",
+		"uniqueTo": "Republic of Texas",
+		"replaces": "Bomber",
+		"movement": "1" , 
+		"strength": 70,
+		"rangedStrength": 70,
+		"range": 12,
+		"cost": 350,
+		"requiredTech": "Radar",
+		"requiredResource": "Oil",
+		"promotions": ["Logistics"],
+		"attackSound": "Bombing"
+		"Upgrades to": "Stealth Bomber" 
 	}
 ]
