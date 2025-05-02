@@ -26,7 +26,7 @@
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Very well, Lets settle this.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"tradeRequest": "We grant you the honor of this trade offer.",
 
 		"outerColor": [26,31,175],
 		"innerColor": [201,73,9],
