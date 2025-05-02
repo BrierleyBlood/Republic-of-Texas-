@@ -30,8 +30,14 @@
 
 		"outerColor": [26,31,175],
 		"innerColor": [201,73,9],
-		"unique": "Power of the south",
-		"uniques" : "[+20]% Production when constructing [musketmen] units [in all cities]" , "[+20]% production when constructing [farms]" , "double quantity of [oil] produced" , "[+1 Gold, +2 Production] from [Farm] tiles [in all cities]" , 
+		"uniqueName1": "Power of the south",
+		"uniques1" : "[+20]% Production when constructing [musketmen] units [in all cities]" ,
+                "uniquesName2" : "Everything is bigger in Texas",
+                "uniques2" : "[+2 Gold, +2 Production] per [3] population [in all cities]",
+                "uniquesName" : "Oil Tycoon" 
+		"uniques3" : "Double quantity of [Oil] produced",
+		"uniquesName4" : "Right to bare arms",
+		"uniques4" : "[+20]% Strength decreasing with distance from the capital",
 		"cities": ["Houston","Dallas","San Antonio","Austin","Fort Worth","El Paso","Plano","Arlington","Amarillo",
 			"Brownsville","Waco","Irving","Garland","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
