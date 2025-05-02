@@ -32,7 +32,7 @@ UnitIcons/T-6 Bomber
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/M-4 Sherman
+UnitIcons/M4 Sherman
   Rotate: False
   xy: 328, 4
   orig: 100, 100
