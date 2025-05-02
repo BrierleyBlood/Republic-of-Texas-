@@ -31,8 +31,8 @@
 		"innerColor": [201,73,9],
 		"unique": "Power of the south",
 		"uniques" :" [ [+20]% Production when constructing musketmen" , "[+20]% production when constructing farms" , "double quantity of [oil] produced" , 
-		"cities": ["Houston","Dallas","San Antonio","Austin","Fort Worth","El Paso","Plano","Arlington","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Houston","Dallas","San Antonio","Austin","Fort Worth","El Paso","Plano","Arlington","Amarillo",
+			"Brownsville","Waco","Irving","Garland","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	}
