@@ -6,7 +6,6 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		"personality" : " Economic" ,
-		"icon": "Images/NationIcons/Republic of Texas.png" , 
 		
 		"startIntroPart1": "Howdy! I am the leader of the Republic of Texas and the Confederate Army",
 		"startIntroPart2": "Greeting, We are a free and independent nation",
@@ -31,6 +30,7 @@
 
 		"outerColor": [2,45,175],
 		"innerColor": [255,81,38],
+		"icon": "Images/NationIcons/Republic of Texas.png" ,
 		"uniqueName1": "Power of the south",
 		"uniques1" : "[+20]% Production when constructing [musketmen] units [in all cities]" ,
                 "uniquesName2" : "Everything is bigger in Texas",
