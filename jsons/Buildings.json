@@ -6,7 +6,7 @@
 		"happiness": 3,
 		"culture": 3,
 		"gold": 6, 
-		"maintnence" 1,  
+		"maintnence" : 1,  
 		"requiredTech": "Architecture", 
 		"quote" : "Justice will be served",
 	},
