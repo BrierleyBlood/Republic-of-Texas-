@@ -29,8 +29,8 @@
 		"afterPeace": "Very well, Lets settle this.",
 		"tradeRequest": "We grant you the honor of this trade offer.",
 
-		"outerColor": [0,51,204],
-		"innerColor": [255,51,0],
+		"outerColor": [2,45,175],
+		"innerColor": [255,81,38],
 		"uniqueName1": "Power of the south",
 		"uniques1" : "[+20]% Production when constructing [musketmen] units [in all cities]" ,
                 "uniquesName2" : "Everything is bigger in Texas",
