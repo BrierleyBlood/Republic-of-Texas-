@@ -28,5 +28,5 @@
                 "AttackSound" : "tankShot" ,
                 "upgradesTo" : , "Modern Armor" ,
                 "RequiredResource" : "Oil" , 
-}
+        }
 ] 
