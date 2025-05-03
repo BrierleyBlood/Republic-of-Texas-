@@ -22,7 +22,7 @@
                 "uniqueTo" : "Republic of Texas" ,
                 "replaces" : "Tank" ,
                 "Movemement" : "6" ,
-                "Strength" : "75" ,
+                "strength" : "75" ,
                 "rangedStrength" : "75" , 
 		"range" : 1, 
                 "Cost" : "350" , 
