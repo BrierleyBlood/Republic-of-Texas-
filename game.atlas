@@ -38,3 +38,9 @@ UnitIcons/M4 Sherman
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Texas Ranger
+  Rotate: False 
+  xy: 328, 4
+  orig: 100, 100
+  offset, 0, 0
+  index: -1
