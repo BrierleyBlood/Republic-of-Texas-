@@ -11,7 +11,7 @@
 		"cityHealth" : 25, 
 		"cityStrength" : 7, 
 		"maintnence" : 1,  
-		"requiredTech": "Chivalry", "Architecture",
+		"requiredTech": "Chivalry", 
 		"quote" : "Justice will be served",
 	},
 	{
