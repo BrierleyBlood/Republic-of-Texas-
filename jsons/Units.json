@@ -27,7 +27,7 @@
                 "Cost" : "350" , 
                 "requiredTech" : "Combined Arms" ,
                 "AttackSound" : "tankShot" ,
-                "upgradesTo" : , "Modern Armor" ,
+                "upgradesTo" : "Modern Armor" ,
                 "RequiredResource" : "Oil" , 
         }
 ] 
