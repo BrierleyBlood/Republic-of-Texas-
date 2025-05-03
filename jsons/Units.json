@@ -32,5 +32,19 @@
                 "requiredResource" : "Oil" , 
                  "uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 
-        }
+        },
+	{
+		"name" : "Texas Ranger",
+		"uniType" : "mounted",
+		"uniqueTo" : "Republic of Texas",
+		"replaces" : "Cavalry", 
+		"movement" 4,
+		"strength" 36,
+		"cost" 225,
+		"requiredTech" : "MilitaryScience",
+		"attackSound" : "shot" ,
+		"upgradesTo" : "landship" ,
+		"requiredResource" : "horses" ,
+		"uniques" : "Can move after attacking" ,"[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		
 ] 
