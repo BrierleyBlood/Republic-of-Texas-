@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Tarrant County Courthouse",
+		"name": "Texas Courthouse",
 		"uniqueTo": "Republic of Texas",
 		"replaces" : "Castle",
 		"requiredBuilding" : "Walls",
@@ -20,10 +20,13 @@
 		"replaces": "Temple",
 		"requiredBuilding" : "Shrine"
 		"uniqueTo": "Republic of Texas",
+                "uniques" : ["Only available <when religion is enabled>"],
 		"cost": 150,
 		"happiness": 4,
 		"faith" : 5,  
 		"maintnence" : 1, 
 		"requiredTech": "Philosophy",
-	}
+
+
+	}       
 ]
