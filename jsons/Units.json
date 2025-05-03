@@ -4,6 +4,7 @@
 		"unitType": "Bomber",
 		"uniqueTo": "Republic of Texas",
 		"replaces": "Bomber",
+		"movement" : 1,
 		"strength": 70,
 		"rangedStrength": 70,
 		"range": 12,
