@@ -27,9 +27,9 @@
 		"range" : 1, 
                 "cost" : 350 , 
                 "requiredTech" : "Combined Arms" ,
+		"requiredResource" : "Oil",
                 "attackSound" : "tankShot" ,
                 "upgradesTo" : "Modern Armor" ,
-                "requiredResource" : "Oil" , 
                  "uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
 
         },
