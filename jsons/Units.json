@@ -24,7 +24,7 @@
                 "Movemement" : "6" ,
                 "Stength" : "75" ,
                 "rangedStrength" : "75" , 
-		"range" : 2, 
+		"range" : 1, 
                 "Cost" : "350" , 
                 "requiredTech" : "Combined Arms" ,
                 "AttackSound" : "tankShot" ,
