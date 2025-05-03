@@ -5,7 +5,7 @@
 		"adjective": ["Texan"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
-		"personality" : " Economic" 
+		"personality" : " Economic" ,
 		"icon": "images/NationIcon/Republic_of_Texas.png" 
 		
 		"startIntroPart1": "Howdy! I am the leader of the Republic of Texas and the Confederate Army",
