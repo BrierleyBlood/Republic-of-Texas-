@@ -17,7 +17,7 @@
 	{
 
                 "name": "M4 Sherman" ,
-                "unitType" : "Armor" ,
+                "unitType" : "Armored" ,
                 "uniqueTo" : "Republic of Texas" ,
                 "replaces" : "Tank" ,
                 "movemement" : 6 ,
@@ -29,5 +29,7 @@
                 "attackSound" : "tankShot" ,
                 "upgradesTo" : "Modern Armor" ,
                 "requiredResource" : "Oil" , 
+                 "uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+
         }
 ] 
