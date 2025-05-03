@@ -18,6 +18,7 @@
 		"cost": 150,
 		"happiness": 4,
 		"faith" : 5,  
+		"maintnence" : 1, 
 		"requiredTech": "Philosophy",
 	}
 ]
