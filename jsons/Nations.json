@@ -28,8 +28,8 @@
 		"afterPeace": "Very well, Lets settle this.",
 		"tradeRequest": "We grant you the honor of this trade offer.",
 
-		"outerColor": [2,45,175],
-		"innerColor": [216,39,12],
+		"outerColor": [216,39,12],
+		"innerColor": [2,45,175],
 		"icon": "Images/NationIcons/Republic of Texas.png" ,
 		"uniqueName": "Lonestar State",
 		"uniques" : [ "[+1 Gold, +2 Food] from [Farm] tiles [in all cities]" , "[+2 Gold, +2 Production] per [3] population [in all cities]", "Double quantity of [Oil] produced", "[+20]% Strength decreasing with distance from the capital" ],
