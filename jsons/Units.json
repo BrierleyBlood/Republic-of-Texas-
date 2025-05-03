@@ -24,7 +24,7 @@
                 "strength" : "75" ,
                 "rangedStrength" : "75" , 
 		"range" : 1, 
-                "Cost" : 350 , 
+                "cost" : 350 , 
                 "requiredTech" : "Combined Arms" ,
                 "attackSound" : "tankShot" ,
                 "upgradesTo" : "Modern Armor" ,
