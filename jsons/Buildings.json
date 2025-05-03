@@ -5,18 +5,18 @@
 		"cost": 150,
 		"happiness": 4,
 		"culture": 3,
-		"gold": 8, 
+		"gold": 6, 
 		"requiredTech": "Architecture" 
-		"Quote" : "Justice will be served" 
+		"quote" : "Justice will be served" 
 	},
 	{
 		"name": "Saint Mary's Cathedral",
 		"replaces": "Temple",
-		"required building" : "Shrine"
+		"requiredBuilding" : "Shrine"
 		"uniqueTo": "Republic of Texas",
 		"cost": 100,
-		"happiness": 5,
-		"Faith" : 6 ,  
+		"happiness": 4,
+		"faith" : 5,  
 		"requiredTech": "Philosophy"
 	}
 ]
