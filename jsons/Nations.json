@@ -32,7 +32,7 @@
 		"innerColor": [216,39,12],
 		"icon": "Images/NationIcons/Republic of Texas.png" ,
 		"uniqueName": "Power of the south",
-		"uniques" : "[+20]% Production when constructing [musketmen] units [in all cities]" ,
+		"uniques" : "[+20]% Production when constructing [gunpowder] units [in all cities]" ,
                 "uniquesName" : "Everything is bigger in Texas",
                 "uniques" : "[+2 Gold, +2 Production] per [3] population [in all cities]",
                 "uniquesName" : "Oil Tycoon" 
