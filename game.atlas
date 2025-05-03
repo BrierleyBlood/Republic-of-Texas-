@@ -20,7 +20,7 @@ BuildingIcons/Tarrant County Courthouse
   index: -1
 NationIcons/Republic of Texas
   rotate: false
-  xy: 4, 4
+  xy: 100, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
