@@ -20,7 +20,7 @@
                 "unitType" : "Armored" ,
                 "uniqueTo" : "Republic of Texas" ,
                 "replaces" : "Tank" ,
-                "movemement" : 6 ,
+                "movement" : 6 ,
                 "strength" : "75" ,
                 "rangedStrength" : "75" , 
 		"range" : 1, 
