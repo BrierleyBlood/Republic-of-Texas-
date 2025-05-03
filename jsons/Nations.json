@@ -6,7 +6,7 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		"personality" : " Economic" 
-		"icon": "images/NationIcon/Republic of Texas.png" 
+		"icon": "images/NationIcon/Republic_of_Texas.png" 
 		
 		"startIntroPart1": "Howdy! I am the leader of the Republic of Texas and the Confederate Army",
 		"startIntroPart2": "Greeting, We are a free and independent nation",
