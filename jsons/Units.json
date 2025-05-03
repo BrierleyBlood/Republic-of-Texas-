@@ -45,6 +45,6 @@
 		"attackSound" : "shot" ,
 		"upgradesTo" : "landship" ,
 		"requiredResource" : "horses" ,
-		"uniques" : "Can move after attacking" ,"[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"uniques" : "Can move after attacking" ,"[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"]
 	}	
 ] 
