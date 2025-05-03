@@ -12,7 +12,7 @@
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
 		"attackSound": "Bombing",
-		"Upgrades to": "Stealth Bomber", 
+		"upgradesTo": "Stealth Bomber", 
 	},
 
 	{
@@ -21,14 +21,14 @@
                 "unitType" : "Armor" ,
                 "uniqueTo" : "Republic of Texas" ,
                 "replaces" : "Tank" ,
-                "Movemement" : "6" ,
+                "movemement" : "6" ,
                 "strength" : "75" ,
                 "rangedStrength" : "75" , 
 		"range" : 1, 
                 "Cost" : "350" , 
                 "requiredTech" : "Combined Arms" ,
-                "AttackSound" : "tankShot" ,
+                "attackSound" : "tankShot" ,
                 "upgradesTo" : "Modern Armor" ,
-                "RequiredResource" : "Oil" , 
+                "requiredResource" : "Oil" , 
         }
 ] 
