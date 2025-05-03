@@ -32,7 +32,7 @@
 		"innerColor": [216,39,12],
 		"icon": "Images/NationIcons/Republic of Texas.png" ,
 		"uniqueName": "Lonestar State",
-		"uniques" : ["[+20]% Yield from every [Farm] tiles [in all cities]" , "[+2 Gold, +2 Production] per [3] population [in all cities]", "Double quantity of [Oil] produced", "[+20]% Strength decreasing with distance from the capital" ],
+		"uniques" : ["[+20]% Yield from every [Farm] tile [in all cities]" , "[+2 Gold, +2 Production] per [3] population [in all cities]", "Double quantity of [Oil] produced", "[+20]% Strength decreasing with distance from the capital" ],
 		"cities": ["Houston","Dallas","San Antonio","Austin","Fort Worth","El Paso","Plano","Arlington","Amarillo",
 			"Brownsville","Waco","Irving","Garland","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
