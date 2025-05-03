@@ -3,7 +3,7 @@
 		"name": "Tarrant County Courthouse",
 		"uniqueTo": "Republic of Texas",
 		"cost": 150,
-		"happiness": 4,
+		"happiness": 3,
 		"culture": 3,
 		"gold": 6, 
 		"requiredTech": "Architecture", 
