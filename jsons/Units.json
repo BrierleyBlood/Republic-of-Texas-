@@ -14,10 +14,11 @@
 		"attackSound": "Bombing",
 		"Upgrades to": "Stealth Bomber", 
 	},
-{
+[
+	{
 
                 "name": "M4 Sherman" ,
-                "unitType" : "Armored" ,
+                "unitType" : "Armor" ,
                 "uniqueTo" : "Republic of Texas" ,
                 "replaces" : "Tank" ,
                 "Movemement" : "6" ,
