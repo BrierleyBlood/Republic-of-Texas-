@@ -2,16 +2,21 @@
 	{
 		"name": "Tarrant County Courthouse",
 		"uniqueTo": "Republic of Texas",
+		"replaces" : "Castle",
+		"requiredBuilding" : "Walls",
 		"cost": 150,
 		"happiness": 3,
-		"culture": 3,
+		"culture": 2,
 		"gold": 6, 
+		"cityHealth" : 25, 
+		"cityStrength" : 7, 
 		"maintnence" : 1,  
-		"requiredTech": "Architecture", 
+		"requiredTech": "Chivalry", "Architecture",
 		"quote" : "Justice will be served",
 	},
 	{
 		"name": "Saint Mary's Cathedral",
+		"uniqueTo" : "Republic of Texas", 
 		"replaces": "Temple",
 		"requiredBuilding" : "Shrine"
 		"uniqueTo": "Republic of Texas",
