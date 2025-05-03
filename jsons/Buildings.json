@@ -6,8 +6,9 @@
 		"happiness": 4,
 		"culture": 3,
 		"gold": 6, 
-		"requiredTech": "Architecture" 
-		"quote" : "Justice will be served" 
+		"requiredTech": "Architecture", 
+		"quote" : "Justice will be served",
+		"uniques" : "Only available <when religion is enabled>",
 	},
 	{
 		"name": "Saint Mary's Cathedral",
