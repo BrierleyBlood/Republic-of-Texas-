@@ -18,7 +18,7 @@ BuildingIcons/Tarrant County Courthouse
   orig: 100, 100
   offset: 0, 0
   index: -1
-LeaderIcons/Jefferson Davis
+NationIcons/Republic of Texas
   rotate: false
   xy: 100, 100
   size: 100, 100
