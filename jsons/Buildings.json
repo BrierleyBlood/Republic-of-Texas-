@@ -18,6 +18,5 @@
 		"happiness": 4,
 		"faith" : 5,  
 		"requiredTech": "Philosophy",
-		"uniques" : "Only available <when religion is enabled>",
 	}
 ]
