@@ -10,7 +10,7 @@
 		"gold": 6, 
 		"cityHealth" : 25, 
 		"cityStrength" : 7, 
-		"maintnence" : 1,  
+		"maintenance" : 2,  
 		"requiredTech": "Chivalry", 
 		"quote" : "Justice will be served",
 	},
@@ -24,7 +24,7 @@
 		"cost": 150,
 		"happiness": 4,
 		"faith" : 5,  
-		"maintnence" : 1, 
+		"maintenance" : 1, 
 		"requiredTech": "Philosophy",
 
 
